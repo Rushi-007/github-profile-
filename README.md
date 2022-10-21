@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushi Prajapati</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruviThakkar210&label=Profile%20views&color=0e75b6&style=flat" alt="DhruviThakkar210" /> </p>
-
-
-<img alt="github contribution snake animation" src="https://github.com/DhruviThakkar210/Snake-Animation/blob/main/snake.svg">
 
 
 - 🔭 I’m currently pursuing **B.Tech in Information Technology Engineering** from **Sardar Vallabhbhai Patel Institute Of Technology ,Vasad**
